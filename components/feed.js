@@ -1,5 +1,6 @@
 import * as React from 'react';
 import { Text, View, Image, StyleSheet, TouchableOpacity, ScrollView } from 'react-native';
+import { MaterialCommunityIcons } from '@expo/vector-icons';
 
 
 export default function Feed() {
