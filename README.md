@@ -9,8 +9,8 @@ This repo is a clone project of the Getir mobile app. Getir is a food order app 
 The [Node.js](https://nodejs.org/) v16.13.1 and [Expo](https://docs.expo.dev/) v44.0.0 were used. For installation, install the dependencies and start the server.
 
 ```sh
-git clone https://github.com/ozgur-okt/React-Native-Getir-Clone
-cd React-Native-Getir-Clone
+git clone https://github.com/ozgur-okt/react-native-getir-clone
+cd react-native-getir-clone
 ```
 #### Get the Node modules
 ```sh
